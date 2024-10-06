@@ -1,4 +1,3 @@
 # Arock website clone
 
-
-```https://arock-web.vercel.app/```
+[https://arock-web.vercel.app/]
